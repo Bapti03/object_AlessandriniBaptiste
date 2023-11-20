@@ -1,0 +1,10 @@
+﻿  creature.cpp
+C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.37.32822\include\utility(36,19): error C2064: le terme ne correspond pas à une fonction qui prend 2 arguments
+C:\Users\aless\Desktop\DOSSIER SLOPE\EXERCICES\EXERCICE PROGRAMMATION 2\Object_Alessandrini_Baptiste\creature.cpp(62,14): message : voir la référence à l'instanciation de la fonction modèle 'const _Ty &std::max<int,int>(const _Ty &,const _Ty &,_Pr) noexcept(<expr>)' en cours de compilation
+          with
+          [
+              _Ty=int,
+              _Pr=int
+          ]
+  Source.cpp
+  Génération de code en cours...
